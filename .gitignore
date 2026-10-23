@@ -156,3 +156,4 @@ agent_memory.db
 .chroma
 .venv
 twin/
+emails.txt
